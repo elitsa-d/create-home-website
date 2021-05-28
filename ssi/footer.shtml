@@ -1,0 +1,28 @@
+	<footer class="footer">
+		<div class="copyright">
+			<p>
+				&copy;2017 The Care Home Interiors Company
+			</p>
+
+			<ul>
+				<li>
+					<a href="#">Terms &amp; conditions</a>
+				</li>
+
+				<li>
+					<a href="#">Privacy</a>
+				</li>
+
+				<li>
+					<a href="#">Sitemap</a>
+				</li>
+			</ul>
+		</div><!-- /.copyright -->
+	</footer><!-- /.footer -->
+</div><!-- /.wrapper -->
+</div><!-- /.container -->
+
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvXzPg_gnrBo7aggkkjT_OLgsBuKk0l4s"> </script>
+
+</body>
+</html>

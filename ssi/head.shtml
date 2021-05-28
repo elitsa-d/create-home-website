@@ -1,0 +1,24 @@
+<head>
+	<meta charset="utf-8" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title>Care Home Interiors</title>
+
+	<link rel="shortcut icon" type="image/x-icon" href="css/images/favicon.ico" />
+	<link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+	<link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+
+	<!-- Vendor Styles -->
+	<link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.css" />
+
+	<!-- App Styles -->
+	<link rel="stylesheet" href="css/style.css" />
+
+	<!-- Vendor JS -->
+	<script src="vendor/jquery-3.1.1.min.js"></script>
+	<script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+	<!-- App JS -->
+	<script src="js/functions.js"></script>
+</head>

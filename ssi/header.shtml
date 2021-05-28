@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+	<!--#include virtual="head.shtml" -->
+<body>
+<div class="container">
+
+<div class="wrapper">
+	<header class="header">
+		<div class="header__inner">
+			<img src="css/images/temp/header@2x.png" alt="The Care Home Interiors ompany">
+		</div><!-- /.header__inner -->
+
+		<nav class="nav">
+			<ul>
+				<li class="current">
+					<a href="home.html">home</a>
+				</li>
+
+				<li>
+					<a href="about.html">about us</a>
+				</li>
+
+				<li>
+					<a href="#">portfolio</a>
+
+					<ul class="dropdown">
+						<li>
+							<a href="portfolio-inner.html" class="bg-grey">ASTBURY MERE</a>
+						</li>
+
+						<li>
+							<a href="#" class="bg-grey">AVONDALE</a>
+						</li>
+
+						<li>
+							<a href="#" class="bg-grey">CAMBERLEY MANOR</a>
+						</li>
+
+						<li>
+							<a href="#" class="bg-grey">KARUNA MANOR</a>
+						</li>
+
+						<li>
+							<a href="#" class="bg-grey">SAVERNAKE VIEW</a>
+						</li>
+
+						<li>
+							<a href="#" class="bg-grey">WOODLEA MANOR</a>
+						</li>
+
+						<li>
+							<a href="#">PENHURST GARDENS</a>
+						</li>
+
+						<li>
+							<a href="#">LINCROFT MANOR</a>
+						</li>
+
+						<li>
+							<a href="#">LAVENDER OAKS</a>
+						</li>
+
+						<li>
+							<a href="#">BOURNE WOOD MANOR</a>
+						</li>
+					</ul>
+				</li>
+
+				<li>
+					<a href="testimonials.html">testimonials</a>
+				</li>
+
+				<li>
+					<a href="team.html">the team</a>
+				</li>
+
+				<li>
+					<a href="#">hand made</a>
+				</li>
+
+				<li>
+					<a href="awards.html">awards</a>
+				</li>
+
+				<li>
+					<a href="#">
+						shop
+
+						<i class="ico-bag"></i>
+
+						<span>2</span>
+					</a>
+				</li>
+
+				<li>
+					<a href="contact.html">contact</a>
+				</li>
+			</ul>
+		</nav><!-- /.nav -->
+
+		<a href="#" class="nav-menu">
+			<span></span>
+
+			<span></span>
+
+			<span></span>
+		</a>
+	</header><!-- /.header -->
+
+
